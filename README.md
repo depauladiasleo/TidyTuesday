@@ -1,2 +1,3 @@
 # TidyTuesday
-Contributions to the #TidyTuesday Challenge
+
+My contributions to the #TidyTuesday Challenge.
