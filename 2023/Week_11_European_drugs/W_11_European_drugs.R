@@ -1,5 +1,6 @@
 # Título: Tidy Tuesday | 2023 | Week 11 | European drugs development
 # Script por: @depauladiasleo
+# inspired by: @nrennie35
 # Última atualização: julho de 2023
 
 
