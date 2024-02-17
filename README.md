@@ -14,7 +14,7 @@ In this repo, you will find my scripts and their respective charts or maps.
 If you wish to check on the datasets or to have more information on #TidyTuesday, please, refer to the [community repository](https://github.com/rfordatascience/tidytuesday).
 
 
-You may follow my contributions on [X profile](https://twitter.com/depauladiasleo) or on my [LinkedIN page](https://twitter.com/depauladiasleo).
+You may follow my contributions on [my X profile](https://twitter.com/depauladiasleo) or on my [LinkedIN page](https://twitter.com/depauladiasleo).
 
 
 Comments and suggestions are always welcome!
