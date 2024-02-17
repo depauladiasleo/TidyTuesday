@@ -11,7 +11,7 @@ I hope they inspire you to engage in this weekly challenge from the R community.
 
 
 In this repo, you will find my scripts and their respective charts or maps.
-If you wish to check on the datasets or to have more information on #TidyTuesday, please, refer to the community repository.
+If you wish to check on the datasets or to have more information on #TidyTuesday, please, refer to the [community repository](https://github.com/rfordatascience/tidytuesday).
 
 
 You may follow my contributions on [X profile](https://twitter.com/depauladiasleo) or on my [LinkedIN page](https://twitter.com/depauladiasleo).
@@ -34,7 +34,7 @@ Espero que elas lhe inspirem a participar também nessa prática semanal da comu
 
 
 Neste repositório, você vai encontrar os scripts que escrevi e os respectivos gráficos e mapas.
-Se você quer conferir os datasets ou encontrar mais informações sobre o desafio, por favor, busque o repositório da comunidade.
+Se você quer conferir os datasets ou encontrar mais informações sobre o desafio, por favor, busque o [repositório da comunidade](https://github.com/rfordatascience/tidytuesday).
 
 
 Você pode acompanhar minhas contribuições [no meu perfil no X](https://twitter.com/depauladiasleo) or [em minha página no LinkedIn](https://twitter.com/depauladiasleo).
