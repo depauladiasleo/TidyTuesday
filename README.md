@@ -37,7 +37,7 @@ Neste repositório, você vai encontrar os scripts que escrevi e os respectivos 
 Se você quer conferir os datasets ou encontrar mais informações sobre o desafio, por favor, busque o [repositório da comunidade](https://github.com/rfordatascience/tidytuesday).
 
 
-Você pode acompanhar minhas contribuições [no meu perfil no X](https://twitter.com/depauladiasleo) or [em minha página no LinkedIn](https://twitter.com/depauladiasleo).
+Você pode acompanhar minhas contribuições [no meu perfil no X](https://twitter.com/depauladiasleo) ou [em minha página no LinkedIn](https://twitter.com/depauladiasleo).
 
 
 Comentários e sugestões são sempre bem-vindos!
